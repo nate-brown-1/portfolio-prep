@@ -16,7 +16,7 @@ This was the hardest part of the prework. Not even the actual recording. It's th
 
 4. What excites you the most about tech? Write 1-2 sentences.
 
-The thing I love the most is that tech is that it's like making science fiction come ot life. It's about ideas and it's about finding solutions to problems that didn't exist before somebody had those ideas.
+The thing I love the most is that tech is that it's like making science fiction come to life. It's about ideas and it's about finding solutions to problems that didn't exist before somebody had those ideas.
 
 ## Images
 
