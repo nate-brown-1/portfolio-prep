@@ -24,6 +24,14 @@ The thing I love the most is that tech is that it's like making science fiction 
 
 ![Head shot 200x250](img/nate_200x250.jpg)
 
+### Screenshots: Ruth.les Photography
+
+![Main page / nav bar](img/ruthless_01.png)
+
+![Gallery page](img/ruthless_02.png)
+
+![Schedule form](img/ruthless_03.png)
+
 ### Screenshots: Odd Duck
 
 ![Main page first load](img/odd_duck_01.png)
